@@ -1,4 +1,4 @@
-# Simple Todo List App
+# Simple Todo List App to Practice TypeScript
 
 This simple Todo List project has been created for practicing **TypeScript** with **React** using **Vite** as the build tool. The application allows users to manage tasks by adding, editing, and marking them as completed. This project serves as a practical example of using TypeScript in a React environment.
 
