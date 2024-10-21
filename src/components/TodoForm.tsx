@@ -17,6 +17,7 @@ function TodoForm({ setTodo }: TodoFormProps) {
     };
 
     setTodo((prev) => [...prev, taskObject]);
+    setInput("");
   }
 
   return (

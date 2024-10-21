@@ -49,7 +49,7 @@ function List({ task, setTodo, handleIsTaskDone }: ListProps) {
     setTodo((prev) =>
       prev.map((task) => (task.id === id ? { ...task, task: editInput } : task))
     );
-    if (!editInput && isEdit) {
+    if (!editInput.trim() && isEdit) {
       setTodo((prev) => prev.filter((task) => task.id !== id));
     }
   }
