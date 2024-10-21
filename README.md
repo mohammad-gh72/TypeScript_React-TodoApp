@@ -2,6 +2,8 @@
 
 This simple Todo List project has been created for practicing **TypeScript** with **React** using **Vite** as the build tool. The application allows users to manage tasks by adding, editing, and marking them as completed. This project serves as a practical example of using TypeScript in a React environment.
 
+![Demo:](https://raw.githubusercontent.com/mohammad-gh72/TypeScript_React-TodoApp/refs/heads/main/public/demo.gif)
+
 ## Features
 
 - **Add Tasks**: Create new tasks to manage your to-do list.
@@ -15,4 +17,5 @@ This simple Todo List project has been created for practicing **TypeScript** wit
 - **TypeScript**: A typed superset of JavaScript that helps in building robust applications.
 - **Vite**: A fast build tool and development server for modern web projects.
 - **CSS**: For styling the application.
+
 # TypeScript_React-TodoApp
